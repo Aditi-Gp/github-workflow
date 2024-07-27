@@ -76,15 +76,3 @@ To generate a personal access token:
 ### 7. Verify the Push
 
 To confirm that your changes have been pushed successfully, visit your GitHub repository in a web browser.
-
-## Conclusion
-
-Following these steps will allow you to push changes from your local repository to your GitHub repository. If you encounter any issues, refer to the GitHub documentation or seek assistance.
-```
-
-### Additional Notes
-
-- Make sure to replace `your-username` and `your-repository` with your actual GitHub username and repository name in the commands.
-- You can customize the commit message to reflect the changes you are making.
-
-Feel free to modify any part of this guide to better fit your style or needs!
